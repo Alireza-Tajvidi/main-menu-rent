@@ -1,0 +1,10 @@
+C:\Users\parsa\Desktop\Morya\Main menu\Main menu\Main menu\bin\Debug\Main menu.exe.config
+C:\Users\parsa\Desktop\Morya\Main menu\Main menu\Main menu\bin\Debug\Main menu.exe
+C:\Users\parsa\Desktop\Morya\Main menu\Main menu\Main menu\bin\Debug\Main menu.pdb
+C:\Users\parsa\Desktop\Morya\Main menu\Main menu\Main menu\obj\Debug\Main menu.csproj.AssemblyReference.cache
+C:\Users\parsa\Desktop\Morya\Main menu\Main menu\Main menu\obj\Debug\Main_menu.Form1.resources
+C:\Users\parsa\Desktop\Morya\Main menu\Main menu\Main menu\obj\Debug\Main_menu.Properties.Resources.resources
+C:\Users\parsa\Desktop\Morya\Main menu\Main menu\Main menu\obj\Debug\Main menu.csproj.GenerateResource.cache
+C:\Users\parsa\Desktop\Morya\Main menu\Main menu\Main menu\obj\Debug\Main menu.csproj.CoreCompileInputs.cache
+C:\Users\parsa\Desktop\Morya\Main menu\Main menu\Main menu\obj\Debug\Main menu.exe
+C:\Users\parsa\Desktop\Morya\Main menu\Main menu\Main menu\obj\Debug\Main menu.pdb
